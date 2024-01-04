@@ -1,5 +1,6 @@
 # Java-How-many-numbers-III
-An algorithm for solving "How many numbers III?" on CodeWars that kind of works
+An algorithm for solving "How many numbers III?" on CodeWars that kind of works.
+
 With this solution, I was able to pass Example tests and got to the 100-103 test in Attempt testing:
 
 
